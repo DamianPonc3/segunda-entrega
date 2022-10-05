@@ -1,0 +1,17 @@
+[
+	{
+		"title": "Hamburguesa",
+		"price": "$950",
+		"id": 1
+	},
+	{
+		"title": "Empanada",
+		"price": "$100",
+		"id": 3
+	},
+	{
+		"title": "Empanada",
+		"price": "$100",
+		"id": 4
+	}
+]
